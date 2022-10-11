@@ -24,7 +24,7 @@ Below are instructions for reproducing the results.
 - You can reproduce the 3D Pareto frontier of ResNet18 on ImageNet using the following command:
 
 ```bash
-python main.py --model resnet18 --dataset imagenet --dataset_path [/Path/to/ImageNet] 
+python main.py --model resnet18 --dataset imagenet --dataset_path [/Path/to/ImageNet/] 
 
 optional arguments:
 --model: Model architecture.
