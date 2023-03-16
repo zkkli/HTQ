@@ -10,7 +10,7 @@ from utils import *
 
 
 def get_args_parser():
-    parser = argparse.ArgumentParser(description="PSAQ-ViT", add_help=False)
+    parser = argparse.ArgumentParser(description="HTQ", add_help=False)
     parser.add_argument("--model", default="resnet18",
                         help="model")
     parser.add_argument('--dataset', default="imagenet",
