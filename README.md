@@ -6,7 +6,7 @@
 
 This repository contains the official PyTorch implementation for the paper *"HTQ: Exploring the High-Dimensional Trade-Off of Mixed-Precision Quantization"*. 
 
-Since the paper is in the review stage, this repository includes only the **core components** of the algorithm, including the calculation of the *sensitivity* and the generation of the *3D Pareto frontier*. The bit-precision results and the interface to the HAWQ framework will be released after the paper is accepted.
+This repository includes the core components of the algorithm, including the calculation of the *sensitivity* and the generation of the *3D Pareto frontier*.
 
 Below are instructions for reproducing the results.
 
