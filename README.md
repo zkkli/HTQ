@@ -31,3 +31,17 @@ optional arguments:
 --dataset: Dataset type.
 --dataset_path: path to dataset.
 ```
+
+## Citation
+
+We appreciate it if you would please cite the following paper if you found the implementation useful for your work:
+
+```bash
+@article{li2024htq,
+  title={HTQ: Exploring the High-Dimensional Trade-Off of Mixed-Precision Quantization},
+  author={Li, Zhikai and Long, Xianlei and Xiao, Junrui and Gu, Qingyi},
+  journal={Pattern Recognition},
+  year={2024},
+  publisher={Elsevier}
+}
+```
